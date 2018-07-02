@@ -1,0 +1,19 @@
+{
+  "name": "how-to-webpack",
+  "version": "1.0.0",
+  "description": "webpack configuration demo",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Anatoly Guaniezo",
+  "license": "Apache-2.0"
+}
